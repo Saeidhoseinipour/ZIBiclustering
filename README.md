@@ -1,5 +1,6 @@
 # ZIBiclustering
 We will extend the biclustering model to use Zero-Inflated Poisson (ZIP) and Zero-Inflated Negative Binomial (ZINB) distributions.
+<img alt="Screenshot: 'README.md'" src="https://github.com/Saeidhoseinipour/ZIBiclustering/blob/main/Images/ZIBiclustering.png?raw=true" width="96%">
 
 
 ## Outline
