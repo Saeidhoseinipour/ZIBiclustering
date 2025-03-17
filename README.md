@@ -2,7 +2,7 @@
 We will extend the biclustering model to use Zero-Inflated Poisson (ZIP) and Zero-Inflated Negative Binomial (ZINB) distributions.
 <img alt="Screenshot: 'README.md'" src="https://github.com/Saeidhoseinipour/ZIBiclustering/blob/main/Images/ZIBiclustering.png?raw=true" width="96%">
 
-<img alt="Screenshot: 'README.md'" src="https://github.com/Saeidhoseinipour/ZIBiclustering/blob/main/Images/zip_log_likelihood_plot.svg?raw=true" width="96%">
+<img alt="ZIP Log Likelihood Plot" src="https://saeidhoseinipour.github.io/ZIBiclustering/Images/zip_log_likelihood_plot.svg" width="96%">  
 
 ## Outline
 1. **Title and Abstract**
