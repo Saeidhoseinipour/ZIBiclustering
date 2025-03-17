@@ -4,6 +4,9 @@ We will extend the biclustering model to use Zero-Inflated Poisson (ZIP) and Zer
 
 <img alt="ZIP Log Likelihood Plot" src="https://saeidhoseinipour.github.io/ZIBiclustering/Images/zip_log_likelihood_plot.svg" width="96%">  
 
+<img alt="ZIP Log Likelihood Plot" src="https://raw.githubusercontent.com/Saeidhoseinipour/ZIBiclustering/main/Images/zip_log_likelihood_plot.svg" width="96%">  
+
+
 ## Outline
 1. **Title and Abstract**
    - Title: "Biclustering Count Data with Zero-Inflated Models: ZIP and ZINB Approaches"
